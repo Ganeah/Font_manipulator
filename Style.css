@@ -1,0 +1,13 @@
+body{
+    font-size: 30px;
+}
+
+.heading{
+    padding: 10px;    
+}
+
+.note{
+    padding: 10px;
+    background-color: cyan;
+    color: red;
+}
